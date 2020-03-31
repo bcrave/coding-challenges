@@ -71,4 +71,4 @@ function sockMerchant(ar) {
 
 console.log(sockMerchant([10, 20, 20, 10, 10, 30, 50, 10, 20]));
 
-// I get an error ("" is not a function).  I'll have to look deeper.
+// I get an error ("" is not a function).  I'll have to look deeper.  It's dumb anyway.
